@@ -1,0 +1,14 @@
+@import "tailwindcss";
+body{background:#0e1a3a;color:#eef1fb;font-family:'Bricolage Grotesque',system-ui,sans-serif;overflow-x:hidden}
+.glass{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.13);backdrop-filter:blur(14px);border-radius:1.25rem}
+.blob{position:fixed;border-radius:50%;filter:blur(100px);opacity:.3;z-index:-1;animation:float 14s ease-in-out infinite alternate}
+@keyframes float{to{transform:translate(70px,-50px) scale(1.25)}}
+.grad{background:linear-gradient(90deg,#ff9933,#ffd27a,#22a559);-webkit-background-clip:text;background-clip:text;color:transparent;background-size:200%;animation:shine 6s linear infinite}
+@keyframes shine{to{background-position:200%}}
+.form-control,.form-select{background:rgba(255,255,255,.08);color:#fff;border-color:rgba(255,255,255,.18)}
+.form-control:focus,.form-select:focus{background:rgba(255,255,255,.12);color:#fff;border-color:#ff9933;box-shadow:0 0 0 .2rem rgba(255,153,51,.25)}
+.form-control::placeholder{color:#94a3c8}option{color:#000}
+.btn-saffron{background:#ff9933;color:#1a1200;font-weight:600;border:0}.btn-saffron:hover{background:#ffad5c;color:#1a1200}
+.dot{width:8px;height:8px;border-radius:50%;background:#ff9933;display:inline-block;animation:b 1s infinite}.dot:nth-child(2){animation-delay:.15s}.dot:nth-child(3){animation-delay:.3s}
+@keyframes b{50%{transform:translateY(-6px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
