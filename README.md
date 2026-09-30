@@ -20,7 +20,9 @@ An AI-powered personal financial advisory and portfolio management web applicati
    npm run dev
    ```
    Open [http://localhost:5173](http://localhost:5173) in your browser.
+4## 📄 Documentation
 
+[📘 View Project Documentation](./docs/BSFI-FinWise-AI_Documentation_DKB.docx)
 ## Features
 - **AI Financial Advisor**: Live AI assistance with fallback offline financial domain knowledge base.
 - **Transaction & Expense Tracker**: Categorization, analytics, and spending charts.
