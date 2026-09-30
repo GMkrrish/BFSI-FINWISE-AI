@@ -20,7 +20,7 @@ An AI-powered personal financial advisory and portfolio management web applicati
    npm run dev
    ```
    Open [http://localhost:5173](http://localhost:5173) in your browser.
-4 ## 📄 Documentation
+   ## 📄 Documentation
 
 [📘 View FinWise Documentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGMkrrish%2FBFSI-FINWISE-AI%2Fmain%2Fdocs%2FBSFI-FinWise-AI_Documentation_DKB.docx)
 ## Features
