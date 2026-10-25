@@ -23,7 +23,9 @@ An AI-powered personal financial advisory and portfolio management web applicati
 ## 📄 Documentation
 
 
+
 <a href="https://github.com/GMkrrish/BFSI-FINWISE-AI/blob/main/docs/BFSI-FinWise-AI_Documentation_DKB.pdf" target="_blank" rel="noopener noreferrer">📄 View Full FinWise Documentation</a>
+
 
 
 
