@@ -25,7 +25,7 @@ An AI-powered personal financial advisory and portfolio management web applicati
 
 
 
-<a href="https://github.com/GMkrrish/BFSI-FINWISE-AI/blob/main/docs/BSFI-FinWise-AI_Documentation_DKB.pdf" target="_blank" rel="noopener noreferrer">📄 View Full FinWise Documentation</a>
+<a href="https://docs.google.com/gview?embedded=1&url=https%3A%2F%2Fraw.githubusercontent.com%2FGMkrrish%2FBFSI-FINWISE-AI%2Fmain%2Fdocs%2FBSFI-FinWise-AI_Documentation_DKB.pdf" target="_blank" rel="noopener noreferrer">📄 View Full FinWise Documentation</a>
 
 
 
