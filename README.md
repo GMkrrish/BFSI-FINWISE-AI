@@ -22,7 +22,9 @@ An AI-powered personal financial advisory and portfolio management web applicati
    Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## 📄 Documentation
 
-[📘 View Latest FinWise Documentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGMkrrish%2FBFSI-FINWISE-AI%2Fmain%2Fdocs%2FBSFI-FinWise-AI_Documentation_DKB.docx%3Fv%3D335b546)
+- [📘 View in Microsoft Office Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGMkrrish%2FBFSI-FINWISE-AI%2Fmain%2Fdocs%2FBSFI-FinWise-AI_Documentation_DKB.docx)
+- [📄 View PDF Documentation (Fast / Mobile Friendly)](docs/BSFI-FinWise-AI_Documentation_DKB.pdf)
+
 ## Features
 - **AI Financial Advisor**: Live AI assistance with fallback offline financial domain knowledge base.
 - **Transaction & Expense Tracker**: Categorization, analytics, and spending charts.
