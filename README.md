@@ -23,7 +23,8 @@ An AI-powered personal financial advisory and portfolio management web applicati
 ## 📄 Documentation
 
 
-<a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/shaikhjammu/FSI-FINWISE-AI/main/docs/BFSI-FinWise-AI_Documentation_DKB.pdf" target="_blank" rel="noopener noreferrer">📄 View Full FinWise Documentation</a>
+<a href="https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/GMkrrish/BFSI-FINWISE-AI/main/docs/BFSI-FinWise-AI_Documentation_DKB.pdf" target="_blank" rel="noopener noreferrer">📄 View Full FinWise Documentation</a>
+
 
 ## Features
 - **AI Financial Advisor**: Live AI assistance with fallback offline financial domain knowledge base.
